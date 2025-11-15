@@ -3,4 +3,4 @@ learning journey
 <br>
 MATRIC : IPS
 <br>
-FSC : IPS
+FSC : IPS ka student
